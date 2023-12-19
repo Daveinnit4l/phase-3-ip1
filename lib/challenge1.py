@@ -11,7 +11,7 @@ def convert_to_24_hour(hour, minute, period):
             hour += 12
 
     return '{:02d}{:02d}'.format(hour, minute)
-# {:02d} is used to mean that we format the integer with at least 2 digits, and pad with leading zeros if necessary.
+#Taking user input for hours, minutes, and periods.
 
 
 print(convert_to_24_hour(12, 30, 'am')) 
