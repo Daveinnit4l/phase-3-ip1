@@ -63,7 +63,7 @@ The consonant substrings are: "str" and "ngth" with values "str" = 19 + 20 + 18 
 
 
 ## Contact Information
-* Email : mutigaim@gmail.com
+* Email : Davek2647@gmail.com
 *****
 
 ## [License](LICENSE)
