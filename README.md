@@ -68,4 +68,4 @@ The consonant substrings are: "str" and "ngth" with values "str" = 19 + 20 + 18 
 
 ## [License](LICENSE)
 MIT License
-Copyright (c) 2023 Isaac Mutiga
+Copyright (c) 2023 kyle dave
